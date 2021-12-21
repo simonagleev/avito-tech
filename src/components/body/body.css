@@ -1,0 +1,26 @@
+.body {
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
+
+@media (max-width: 900px) {
+    .body {
+        justify-content: center;
+    }
+}
+
+.photo-container {
+    width: 229px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+
+
+}
+
+.image-item {
+    width: 229px;
+    height: 142px;
+
+}
