@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/avito-tech/static/css/main.c184f40e.chunk.css",
+    "main.css": "/avito-tech/static/css/main.bb3af5b1.chunk.css",
     "main.js": "/avito-tech/static/js/main.5d6cc28c.chunk.js",
     "main.js.map": "/avito-tech/static/js/main.5d6cc28c.chunk.js.map",
     "runtime-main.js": "/avito-tech/static/js/runtime-main.8c542acd.js",
@@ -8,14 +8,14 @@
     "static/js/2.4be97f4b.chunk.js": "/avito-tech/static/js/2.4be97f4b.chunk.js",
     "static/js/2.4be97f4b.chunk.js.map": "/avito-tech/static/js/2.4be97f4b.chunk.js.map",
     "index.html": "/avito-tech/index.html",
-    "static/css/main.c184f40e.chunk.css.map": "/avito-tech/static/css/main.c184f40e.chunk.css.map",
+    "static/css/main.bb3af5b1.chunk.css.map": "/avito-tech/static/css/main.bb3af5b1.chunk.css.map",
     "static/js/2.4be97f4b.chunk.js.LICENSE.txt": "/avito-tech/static/js/2.4be97f4b.chunk.js.LICENSE.txt",
     "static/media/Close.63feaaed.svg": "/avito-tech/static/media/Close.63feaaed.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8c542acd.js",
     "static/js/2.4be97f4b.chunk.js",
-    "static/css/main.c184f40e.chunk.css",
+    "static/css/main.bb3af5b1.chunk.css",
     "static/js/main.5d6cc28c.chunk.js"
   ]
 }
